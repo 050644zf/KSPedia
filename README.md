@@ -2,7 +2,7 @@
 
 下载方法：
 ---
-右上角绿色"Clone and download"按钮→"Download ZIP"
+**右上角绿色"Clone and download"按钮→"Download ZIP"**
 
 版权声明：
 ---
