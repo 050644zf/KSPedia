@@ -3,6 +3,7 @@
 下载方法：
 ---
 **右上角绿色"Clone and download"按钮→"Download ZIP"**
+或点击pdf文件后在新页面选择"Download"
 
 版权声明：
 ---
