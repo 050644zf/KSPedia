@@ -5,6 +5,8 @@
 **右上角绿色"Clone and download"按钮→"Download ZIP"**
 或点击pdf文件后在新页面选择"Download"
 
+KSPedia_Newest为最新版本
+
 版权声明：
 ---
 本文绝大部分内容来自**SQUAD公司在Kerbal Space Program中内置的教程KSPedia**
