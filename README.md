@@ -1,7 +1,9 @@
 # KSPedia汉化pdf下载须知
 
-下载方法：右上角绿色"Clone and download"按钮→"Download ZIP"
+下载方法：
 ---
+右上角绿色"Clone and download"按钮→"Download ZIP"
+
 版权声明：
 ---
 本文绝大部分内容来自**SQUAD公司在Kerbal Space Program中内置的教程KSPedia**
